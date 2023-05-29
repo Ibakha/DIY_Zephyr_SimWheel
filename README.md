@@ -1,2 +1,2 @@
-# GT_Wheel
-Custom steering wheel using zephyr framework &amp; taking Simhub telemetry
+# DIY Zephyr SimWheel
+Custom steering wheel using zephyr framework
