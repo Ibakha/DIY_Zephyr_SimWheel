@@ -1,0 +1,1 @@
+west build -p always -b sim_wheel_nrf52840

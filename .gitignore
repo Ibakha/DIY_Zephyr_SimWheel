@@ -1,0 +1,8 @@
+/.vscode/
+/build/
+/html/
+/twister-out/
+/.west/
+/modules/
+/zephyr/
+/bootloader/

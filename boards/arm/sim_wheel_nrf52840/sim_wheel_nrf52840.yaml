@@ -1,0 +1,18 @@
+identifier: sim_wheel_nrf52840
+name: Sim Wheel nRF52840
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+  - gnuarmemb
+  - xtools
+supported:
+  - adc
+  - usb_device
+  - usb_cdc
+  - ble
+  - watchdog
+  - counter
+  - feather_serial
+  - feather_i2c
+  - feather_spi
